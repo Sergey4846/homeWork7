@@ -7,7 +7,7 @@ public class Task19 {
         String text1 = text.trim();
 
         int a = text1.split("\\s+").length;
-        System.out.println("Количество пробелов в строке: " + a);
+        System.out.println("Количество пробелов в строке: " +a);
 
     }
 }
